@@ -1,1 +1,1 @@
-[text] (https://example.com)
+[Git](https://example.com)
