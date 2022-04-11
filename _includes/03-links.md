@@ -1,1 +1,1 @@
-([my GitHub] (https://github.com/popovski-irees))
+([text] (https://example.com))
